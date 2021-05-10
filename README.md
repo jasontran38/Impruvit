@@ -3,6 +3,7 @@
 Impruvit is a habit tracking game where you and your friends can bet on doing a habit consistently. Think of it as self-improvement poker.
 
 MVP
+3 Button bottom nav - History/Home/Buy
 Sign up and authentication
 Start with 500 points in your wallet
 Ability to create a game or join a game
